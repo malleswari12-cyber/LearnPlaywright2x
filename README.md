@@ -6,4 +6,5 @@ This workspace contains JavaScript practice files organized by chapter.
 
 - `chapter_01_Basics` — basic JavaScript setup and syntax examples.
 - `chapter_02_Javascript_concepts` — JavaScript concepts and identifier examples.
-- `chapter_03_Identifier_literals` — identifiers, literals, comments, and VS Code shortcuts references.
+- `chapter_03_Identifier_literals` — identifiers, literals, comments, practice files, and VS Code shortcuts references.
+- `chapter_04_Javascript_Concepts` — variable declarations, functions, scope, hoisting, and const/let examples.
